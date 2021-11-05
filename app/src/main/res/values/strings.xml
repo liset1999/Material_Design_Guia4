@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Material_Design_Guia4</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="registryEmployee">Registrar Empleado</string>
+    <string name="addEmployee">Agregar Empleado</string>
+    <string name="listView">Mostrar Lista</string>
+    <string name="MisDatos">Datos</string>
+
+    <string name="titulo">Mis Datos personales</string>
+    <string name="miNombre">Liset Maricela Saldaña Martinez</string>
+    <string name="codigo">SM18-I04-001</string>
+
+
+    <string name="Required">Este campo es requerido.</string>
+    <string name="msgCancel" translatable="false">Limpiar</string>
+    <string name="msgMenu" translatable="false">Menu</string>
+    <string name="conditions" translatable="false">Acepto los terminos y condiciones.</string>
+    <string name="Number" translatable="false">Cantidad de encuestados: 0</string>
+</resources>
